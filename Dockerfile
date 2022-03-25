@@ -1,6 +1,6 @@
 FROM ubuntu:hirsute
 
-LABEL maintainer="ZenitsuPrjkt <ZenitsuPrjkt@gmail.com>"
+LABEL maintainer="ZenitsuXD <zenitsuxd5@gmail.com>"
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LANG=C.UTF-8
